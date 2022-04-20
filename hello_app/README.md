@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Progress
 
-Things you may want to cover:
+Listing book sections as I'm about to start them.
 
-* Ruby version
+### (https://www.learnenough.com/ruby-on-rails-7th-edition-tutorial#sec-mvc).
 
-* System dependencies
+- Added controller actions for `hello` and `goodbye`.
+- Set root route to `application#goodbye`.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### (https://www.learnenough.com/ruby-on-rails-7th-edition-tutorial#sec-heroku_commands_setup)
